@@ -1,2 +1,7 @@
 pyTelegramBotAPI
+pymongo
+dnspython
+requests
+pytz
+certifi
 flask
