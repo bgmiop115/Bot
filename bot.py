@@ -25,7 +25,7 @@ logging.basicConfig(
 )
 
 # Configuration
-TOKEN = '8538094058:AAHNrw-9Umot2gnST8wybLYOB5cGmXcfl6k'
+TOKEN = '8538094058:AAE6NV4A7LfVC8g-YkqyRcyUUnlq_tmb91g'
 MONGO_URI = 'mongodb+srv://telegrambotbydanger:siPJXsL56GQ03onP@cluster0.0om9qyw.mongodb.net/?appName=Cluster0'
 ADMIN_IDS = [7518035096]
 CONFIG_FILE = 'config.json'
